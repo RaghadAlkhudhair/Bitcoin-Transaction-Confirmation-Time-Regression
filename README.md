@@ -1,6 +1,6 @@
 # Bitcoin-Transaction-Confirmation-Time-Regression
 ## Abstract 
-#### The goal of this project is to scrab historical bitcoin prices data and merge it with more features to predict the transaction confirmation time.
+#### The goal of this project is to scrab historical bitcoin prices data and merge it with more features to predict the transaction confirmation time using linear regression.
 
 ## Design 
 ### Background 
