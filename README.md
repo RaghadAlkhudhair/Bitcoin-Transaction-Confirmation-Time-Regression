@@ -11,7 +11,8 @@
 #### Being able to predict confirmation time is valuable for the traders. 
 
 ### Data
-#### Feature scrapped from stocks website "https://coinmarketcap.com/currencies/bitcoin/historical-data/"
+#### Feature scrapped from stocks website "https://coinmarketcap.com/currencies/bitcoin/historical-data/" :
+
 
 |  Feature  | Description    |
 | :----------:  | :----------: | 
@@ -23,7 +24,8 @@
 |  Volume | Volume is counted as the total number of shares that are actually traded (bought and sold) during the trading day  | 
 |  Market_Cap | the total value of all a company's shares of stock  | 
 
-#### Feature downladed as csv files from "https://data.nasdaq.com/data/BCHAIN"
+
+#### Feature downladed as csv files from "https://data.nasdaq.com/data/BCHAIN" :
 
 |  Feature  | Description    |
 | :----------:  | :----------: | 
