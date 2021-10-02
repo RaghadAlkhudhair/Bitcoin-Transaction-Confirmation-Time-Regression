@@ -23,6 +23,19 @@
 |  Volume | Volume is counted as the total number of shares that are actually traded (bought and sold) during the trading day  | 
 |  Market_Cap | the total value of all a company's shares of stock  | 
 
+#### Feature downladed as csv files from "https://data.nasdaq.com/data/BCHAIN"
+
+|  Feature  | Description    |
+| :----------:  | :----------: | 
+| Daily_Transactions | Daily Bitcoin Transactions | 
+| Miners_Revenue | Total miners revenue in that day | 
+| Difficulty | A relative measure of how difficult it is to find a new block. The difficulty is adjusted periodically as a function of how much hashing power has been deployed by the network of miners | 
+| Cost_Per_Transaction | Miners revenue divided by the number of transactions. | 
+| Average_Block_Size| The average block size in MB.| 
+| Total_Bitcoins | The total number of bitcoins that have already been mined; in other words, the current supply of bitcoins on the network | 
+| Average_Transaction_Confirmation_time | The median time for a transaction to be accepted into a mined block and added to the public ledger (note: only includes transactions with miner fees). | 
+
+
 
 ### Tools 
 #### Python Libraries: Selenium, BeautifulSoup, skLearn.
