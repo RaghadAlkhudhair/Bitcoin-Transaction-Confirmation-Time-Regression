@@ -43,4 +43,4 @@
 #### Python Libraries: Selenium, BeautifulSoup, skLearn.
 
 
-<a href="https://github.com/RaghadAlkhudhair/Bitcoin-Transaction-Confirmation-Time-Regression/blob/main/Bitcoin_Regression.ipynb" > Jupyter Notebook </a>
+<a href="https://github.com/RaghadAlkhudhair/Bitcoin-Transaction-Confirmation-Time-Regression/blob/main/Bitcoin_Confirmation_Time_Regression.ipynb" > Jupyter Notebook </a>
