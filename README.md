@@ -37,7 +37,7 @@
 | Total_Bitcoins | The total number of bitcoins that have already been mined; in other words, the current supply of bitcoins on the network* | 
 | Average_Transaction_Confirmation_time | The median time for a transaction to be accepted into a mined block and added to the public ledger (note: only includes transactions with miner fees).* | 
 
-* Discriptions were taken from "https://data.nasdaq.com/data/BCHAIN"
+#### * Discriptions were taken from "https://data.nasdaq.com/data/BCHAIN"
 
 ### Tools 
 #### Python Libraries: Selenium, BeautifulSoup, skLearn.
